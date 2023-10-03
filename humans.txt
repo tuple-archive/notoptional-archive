@@ -1,1 +1,2 @@
-Website designed and built by Tuple <https://tuple.co/>
+Creator: Tuple
+URL: https://tuple.co
